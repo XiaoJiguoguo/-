@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Klei\OxygenNotIncluded\mods\Dev\QuestSystem\netstandard2.1\QuestSystem.deps.json
+C:\Users\Administrator\Documents\Klei\OxygenNotIncluded\mods\Dev\QuestSystem\netstandard2.1\QuestSystem.dll
+C:\Users\Administrator\Documents\Klei\OxygenNotIncluded\mods\Dev\QuestSystem\netstandard2.1\QuestSystem.pdb
+C:\Users\Administrator\Documents\缺氧游戏任务系统开发\QuestSystem\obj\Debug\netstandard2.1\QuestSystem.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\缺氧游戏任务系统开发\QuestSystem\obj\Debug\netstandard2.1\QuestSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\缺氧游戏任务系统开发\QuestSystem\obj\Debug\netstandard2.1\QuestSystem.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\缺氧游戏任务系统开发\QuestSystem\obj\Debug\netstandard2.1\QuestSystem.AssemblyInfo.cs
+C:\Users\Administrator\Documents\缺氧游戏任务系统开发\QuestSystem\obj\Debug\netstandard2.1\QuestSystem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\缺氧游戏任务系统开发\QuestSystem\obj\Debug\netstandard2.1\QuestSystem.dll
+C:\Users\Administrator\Documents\缺氧游戏任务系统开发\QuestSystem\obj\Debug\netstandard2.1\QuestSystem.pdb
